@@ -1,0 +1,27 @@
+html {
+  font-family: sans-serif;
+}
+
+/* Your CSS below here */
+
+.a-cool-box{
+  background: linear-gradient(to bottom right, red, rgb(161, 10, 10));
+  width: 200px;
+  height: 200px; 
+  font-size: 1.1rem; /*17.5÷16=1.09375≒1.1*/
+  border: 5px;
+  margin: 20px;
+  padding: 2px;
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  color: white;
+  text-shadow: 1px 1px 2px black;
+  box-shadow: 4px 4px 6px 0px black,
+  -2px -2px 4px -2pt black inset,
+  4px 4px 4px -2px white inset;
+  border: 1px solid #660707;
+  border-radius: 15px;
+}
+
+/*Edit by Mandai*/
